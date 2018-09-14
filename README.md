@@ -8,7 +8,7 @@ spring:
         <br>
         driverClassName: com.mysql.jdbc.Driver
         <br>
-        url: jdbc:mysql://localhost:3306/fsupa?useUnicode=true&characterEncoding=UTF-8
+        url: jdbc:mysql://localhost:3306/你的库名?useUnicode=true&characterEncoding=UTF-8
         <br>
         username: 账号
         <br>
